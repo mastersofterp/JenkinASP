@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/root/dotnetwebapp/dotnetwebapp.csproj": {}
+    "C:\\Users\\USER\\Desktop\\New folder\\JenkinASP\\dotnetwebapp.csproj": {}
   },
   "projects": {
-    "/root/dotnetwebapp/dotnetwebapp.csproj": {
+    "C:\\Users\\USER\\Desktop\\New folder\\JenkinASP\\dotnetwebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/dotnetwebapp/dotnetwebapp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\New folder\\JenkinASP\\dotnetwebapp.csproj",
         "projectName": "dotnetwebapp",
-        "projectPath": "/root/dotnetwebapp/dotnetwebapp.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/dotnetwebapp/obj/",
+        "projectPath": "C:\\Users\\USER\\Desktop\\New folder\\JenkinASP\\dotnetwebapp.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\New folder\\JenkinASP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
