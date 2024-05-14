@@ -1,0 +1,6 @@
+version : "3.3"
+services :
+  web :
+     image : mastersofterp/my-notes-app:latest
+     ports :
+         - "8081:5000"
